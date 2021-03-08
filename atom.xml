@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ProtecedSited-00</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-03-08T10:03:08.455Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>DrScorpio</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Remake</title>
+    <link href="http://example.com/2021/03/08/Remake/"/>
+    <id>http://example.com/2021/03/08/Remake/</id>
+    <published>2021-03-08T10:02:38.000Z</published>
+    <updated>2021-03-08T10:03:08.455Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;博客重建中…&quot;&gt;&lt;a href=&quot;#博客重建中…&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
