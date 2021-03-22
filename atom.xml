@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-08T10:03:08.455Z</updated>
+  <updated>2021-03-22T08:47:11.230Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个简易(陋)的Goroutine线程池的实现</title>
+    <link href="http://example.com/2021/03/22/Goroutine/"/>
+    <id>http://example.com/2021/03/22/Goroutine/</id>
+    <published>2021-03-22T08:18:28.000Z</published>
+    <updated>2021-03-22T08:47:11.230Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;注:项目代码参考自文章:&lt;a href=&quot;https://blog.csdn.net/zhumingyuan111/article/details/86989143&quot;&gt;https://blog.csdn.net/zhumingyuan111/article/details/86989143&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;一个简易的GoroutinePool&quot;&gt;&lt;a href=&quot;#一个简易的GoroutinePool&quot; class=&quot;headerlink&quot; title=&quot;一个简易的GoroutinePool&quot;&gt;&lt;/a&gt;一个简易的GoroutinePool&lt;/h1&gt;&lt;h2 id=&quot;Why-Goroutine-Pool&quot;&gt;&lt;a href=&quot;#Why-Goroutine-Pool&quot; class=&quot;headerlink&quot; title=&quot;Why Goroutine Pool&quot;&gt;&lt;/a&gt;Why Goroutine Pool&lt;/h2&gt;&lt;p&gt;goroutine 作为 golang 的核心优势之一,拥有着诸多的优点.但即使 goroutine 开销很小,大量的 goroutine 依然会增加内存的开销,甚至导致内存的溢出.通过一个良好管理的 goroutine pool 可以在高效使用goroutine的同时,最大程度的避免以上事件的发生.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;项目地址:&lt;a href=&quot;https://github.com/DrScorpio/simple_goroutine_pool&quot;&gt;https://github.com/DrScorpio/simple_goroutine_pool&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="编程" scheme="http://example.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="Golang" scheme="http://example.com/categories/%E7%BC%96%E7%A8%8B/Golang/"/>
+    
+    
+    <category term="golang" scheme="http://example.com/tags/golang/"/>
+    
+    <category term="multy threading" scheme="http://example.com/tags/multy-threading/"/>
+    
+    <category term="goroutine" scheme="http://example.com/tags/goroutine/"/>
+    
+  </entry>
   
   <entry>
     <title>Remake</title>
