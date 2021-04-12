@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-10T07:58:56.591Z</updated>
+  <updated>2021-04-12T13:20:11.618Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>golang</title>
+    <link href="http://example.com/2021/04/10/golang/"/>
+    <id>http://example.com/2021/04/10/golang/</id>
+    <published>2021-04-10T09:26:21.000Z</published>
+    <updated>2021-04-12T13:20:11.618Z</updated>
+    
+    
+    <summary type="html">记录一些关于golang底层实现的内容</summary>
+    
+    
+    
+    <category term="编程" scheme="http://example.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="golang" scheme="http://example.com/categories/%E7%BC%96%E7%A8%8B/golang/"/>
+    
+    
+    <category term="golang" scheme="http://example.com/tags/golang/"/>
+    
+    <category term="底层实现" scheme="http://example.com/tags/%E5%BA%95%E5%B1%82%E5%AE%9E%E7%8E%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>计算机网络-UDP 协议与 TCP 协议</title>
